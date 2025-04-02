@@ -7,6 +7,7 @@ This browser extension enhances the LeetCode experience by displaying the compan
 - Displays the list of companies that have asked a specific LeetCode question.
 - Seamlessly integrates with the LeetCode website.
 - Helps users filter questions based on target companies.
+- 
 
 ## Usage
 - Navigate to a LeetCode problem page.
